@@ -1,0 +1,13 @@
+<script>
+    jQuery(document).ready(function(){
+        consitant_logo_height();
+        $(window).resize(function() {
+            consitant_logo_height();
+        });
+    });
+
+    function consitant_logo_height(){
+        var LogoHeight = $('#logo img').height();
+        $('#logo').height(LogoHeight);
+    }
+</script>
