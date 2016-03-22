@@ -18,14 +18,13 @@ h2{
 
 #logo {
   position:relative;
-  height:190px;
   width:450px;
   margin:0 auto;
-  padding:50px 0;
+  padding:0 0;
+  margin-top:50px;
 }
 
 #logo img, #logo svg {
-  position:absolute;
   left:0;
   width:100%;
 }
@@ -34,11 +33,14 @@ h2{
 	width:100%;
 }
 
+#logo svg{
+    position:absolute;
+    top:0;
+}
+
 #logo img.transparent {
 opacity:0;
 }
-
-
 
 .content{
 	width:700px;
@@ -229,9 +231,11 @@ opacity:0;
 		min-height:600px;
 	}
 	.article .img {
+        position:relative;
 		float:none;
 		margin:auto;
 		width:40%;
+        display:block;
 	}
 	.article .contents{
 		width:80%;

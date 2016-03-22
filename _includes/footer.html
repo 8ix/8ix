@@ -1,13 +1,22 @@
 <script>
-    jQuery(document).ready(function(){
-        consitant_logo_height();
-        $(window).resize(function() {
-            consitant_logo_height();
-        });
-    });
-
     function consitant_logo_height(){
-        var LogoHeight = $('#logo img').height();
-        $('#logo').height(LogoHeight);
-    }
+		var LogoHeight = $('#logo img').height();
+        var LogoWidth = $('#logo img').width();
+		$('#logo svg').height(LogoHeight);
+        $('#logo svg').width(LogoWidth);
+	}
+
+    $( window ).load(function() { 
+       consitant_logo_height();
+       $(window).resize(function() {
+	       consitant_logo_height();
+	   });
+       var t1 = new TimelineLite({yoyo:true});
+       t1.to('.shade1', 5, {fill:'#9B91FD'});
+       t1.to('.shade2', 5, {fill:'#7669EF'},'-=5');
+       t1.to('.shade1', 5, {fill:'#F75D8C'});
+       t1.to('.shade2', 5, {fill:'#E0255E'},'-=5');
+       t1.to('.shade1', 5, {fill:'#ABCE6F'});
+       t1.to('.shade2', 5, {fill:'#92B851'},'-=5');   
+    });
 </script>
