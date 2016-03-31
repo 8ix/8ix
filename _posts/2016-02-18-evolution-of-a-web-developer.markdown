@@ -7,7 +7,7 @@ featured: Article published on the Superdream Website
 icon: evolution.jpg
 description: Over the last few years websites have seen users grow exponentially across a huge range of devices such as mobile phones, Tablets, Small screen notepads and games consoles which has promoted the use of websites across all types of screen sizes including large screen TVs.
 color: green
-permalink: /security-on-the-web
+permalink: /evolution-of-a-web-developer
 ---
 25 Years ago the World wide web was born which revolutionized the communications and computer world and has paved careers for over 20 million developers worldwide. When you compare a developers skillset from 20 years ago to a modern day developer some of the core languages are still present such as HTML, shortly followed by CSS and JavaScript. With the progression of these languages over the last 20 years it has revolutionised the industry with what we can now achieve in web development.  With these changes it has completely change the way we construct and use these languages from 20 Years ago.
 
