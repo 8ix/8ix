@@ -206,6 +206,13 @@ opacity:0;
     letter-spacing: normal;
 }
 
+.post-comments{
+    display:block;
+    float:left;
+    width:100%;
+    padding-top:50px;
+}
+
 
 @media (max-width: 790px) {
 
