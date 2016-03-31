@@ -196,6 +196,16 @@ opacity:0;
 		width:100%;
 }
 
+.post-content h1{
+    text-align:left;
+    font-size:20pt;
+    
+}
+
+.post-content h1.post-title{
+    letter-spacing: normal;
+}
+
 
 @media (max-width: 790px) {
 
@@ -263,6 +273,13 @@ opacity:0;
 		text-align: center;
 		margin-left:0;
 	}
+    
+    .post-content{
+        display:block;
+        float:left;
+        width:80%;
+        padding:0 10%;
+    }
 }
 
 
