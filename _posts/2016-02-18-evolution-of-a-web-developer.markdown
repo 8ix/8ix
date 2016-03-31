@@ -27,7 +27,7 @@ The First is through integrating social media own website technology into your o
 
 The Second means that social media sites have contributed to a developers arsenal is a side product from the first means. Companies like Google, Facebook and Twitter have a large amounts of resource, budget and talent to code and construct their social media sites often elements and functionality are often packaged up as side projects and released as open source for the web community to freely use, This can be in form of a new programming language or something small like a feature that you can implement on your site. An example of all the resources that Facebook and Twitter have brought to the web community can be found at Facebook and Twitter.
 
-<h3>Fall of flash and HTML5</h3>
+<h3>Fall of flash and rise of HTML5</h3>
 
 For the last 10 years flash has been an important part of the web and was once the primary means of adding interactive functionality to a website. Flash initially grew momentum early in 2005 when YouTube launched which adopted flash technology within its media player. Flash was initially an important part of the web but its most recent downfall occurred during the rise of responsive use as mobile devices such as Apples iPhone did not allow the use of flash due to security issues. As this only left flash to be favoured for Desktop only sites which was not practice to reach entire web audiences.
 
