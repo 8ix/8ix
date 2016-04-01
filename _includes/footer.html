@@ -1,18 +1,6 @@
 <script>
-    function consitant_logo_height(){
-		var LogoHeight = $('#logo img').height();
-        var LogoWidth = $('#logo img').width();
-		$('#logo svg').height(LogoHeight);
-        $('#logo svg').width(LogoWidth);
-	}
-
-    $( window ).load(function() { 
-       consitant_logo_height();
-       $(window).resize(function() {
-	       consitant_logo_height();
-	   });
+    $( window ).load(function() {   
        var t1 = new TimelineLite();
-       
        t1.to('.shade1', 5, {fill:'#9B91FD'});
        t1.to('.shade2', 5, {fill:'#7669EF'},'-=5');
        t1.to('.shade1', 5, {fill:'#F75D8C'});
