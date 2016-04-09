@@ -3,7 +3,7 @@ layout: post
 title:  "The evolution of a web developer"
 date:   2016-02-18 21:19:58 +0000
 categories: tools web-progression 
-featured: Article published on the Superdream Website
+featured: Web Development
 icon: evolution.jpg
 description: Over the last few years websites have seen users grow exponentially across a huge range of devices such as mobile phones, Tablets, Small screen notepads and games consoles which has promoted the use of websites across all types of screen sizes including large screen TVs.
 color: green
