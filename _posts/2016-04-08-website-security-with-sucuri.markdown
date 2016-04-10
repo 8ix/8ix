@@ -10,7 +10,7 @@ color: pink
 permalink: /website-performance-and-security-with-sucuri
 ---
 
-About two years ago I was asked to find a solution to prevent recurring attacks on our WordPress sites. One of our sites compromised many times, and no matter what precautions I put in place the site still seemed to be re-infected.
+About two years ago I was asked to find a solution to prevent recurring attacks on our WordPress sites. One of our sites was compromised many times, and no matter what precautions I put in place the site still seemed to be re-infected.
 
 My initial investigation for preventing attacks started by following the usual good practice guidelines such as:
 
