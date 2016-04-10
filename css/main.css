@@ -229,6 +229,10 @@ opacity:0;
     
 }
 
+.post-content a {
+    word-break: break-all;
+}
+
 .post-content h1.post-title{
     letter-spacing: normal;
 }
