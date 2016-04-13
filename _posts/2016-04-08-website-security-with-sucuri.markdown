@@ -34,7 +34,7 @@ Setting up your website to use CloudProxy is also really easy, It requires you t
 
 Sucuri’s second offering which I have also now started to use is their malware scanning and removal services. Sucuri scan your site frequently and notify you if compromised. Once notified you can arrange with them to clean the website via FTP. Upon their completion, you are given a breakdown of what happened along with the actions they have taken and recommendations for you to complete. I have had three sites cleaned by them recently and each clean up has been fine. 
 
-I have now been using Sucuri’s services for two years and can not find any alternatives with the same offerings. Overall I have been impressed by their offerings and services and highly recommend them; 
+I have now been using Sucuri’s services for two years and can not find any alternatives with the same offerings. Overall I have been impressed by their services and highly recommend them; 
 
 I have rolled out their services across the majority of my sites, and each site using the CloudProxy has remained clean and unharmed. Sucuri also has a tonne of services and features I have not given justice which is available on their site at <a href="https://sucuri.net/">https://sucuri.net/</a>
 
