@@ -4,8 +4,7 @@ title:  "Improve your website security and performance with Sucuri"
 date:   2016-04-08 22:30:00 +0000
 categories: security performance 
 featured: Security & Performance
-icon: sucuri.jpg
-description: While the tips that WordPress provide to improve security greatly prevent a compromise, They are not always practical to maintain regularly when managing a large quantity of sites. From my experience “time” has been the primary issue, resulting in not being able to update WordPress quick enough to protect it from the next vulnerability.
+description: Two years ago I was asked to find a solution to prevent recurring attacks on a Hacked WordPress site, no matter what precautions I put in place the site still seemed to get re-infected.
 color: pink
 permalink: /website-performance-and-security-with-sucuri
 ---

@@ -3,17 +3,9 @@ layout: default
 ---
 {% for post in site.posts %}
 <div class="article">
-    <a href="{{ post.url | prepend: site.baseurl }}" class="img">
-        <img src="images/{{ post.icon }}" />
-        <span class="overlay {{ post.color }}"></span>
-    </a>
     <div class="contents">
         <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="pub"><i>{{ post.date | date: "%b %-d, %Y" }}</i> 
-            {% if post.featured != null %}
-                <span class="{{ post.color }}-back">{{ post.featured }}</span>
-            {% endif %}
-        </p>
+        <p class="pub"><i>{{ post.date | date: "%B %-d, %Y" }}</i></p>
         <p>{{ post.description }}</p>
     </div>
 </div>
