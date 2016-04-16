@@ -21,7 +21,7 @@ My initial investigation for preventing attacks started by following the usual g
 While I am not going to go into this in depth you can see the official Wordpress resource for tightening your WordPress install below:
 (<a href="https://codex.wordpress.org/FAQ_My_site_was_hacked" target="_BLANK">https://codex.wordpress.org/FAQ_My_site_was_hacked</a>).
 
-While the tips that WordPress provide improve security to prevent a compromise, They are not always practical to maintain when managing multiple sites. From experience “time” has been the primary issue, with the result not being able to update WordPress quick enough to protect it from the next vulnerability.
+While the tips that WordPress provide improve security to prevent a compromise, they are not always practical to maintain when managing multiple sites. From experience “time” has been the primary issue, with the result not being able to update WordPress quick enough to protect it from the next vulnerability.
 
 On the same WordPress Codex link specified above, I spotted multiple references to the company name “Sucuri.” It seemed that the official WordPress Codex referred to the Sucuri blog as a resource for cleaning up compromised WordPress sites. While reading through Sucuri’s guides, I discovered their Firewall product offering called CloudProxy and instantly took the decision to trial across one of my sites. 
 
